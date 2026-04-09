@@ -42,7 +42,7 @@ chmod +x server.stats.sh
 
 ### É possível salvar as informações do script em um arquivo de texto, para isso, siga o passo-a-passo:
 
-1. Torne o arquivo executável
+1. Torne o arquivo 'log-script.sh' executável
 ```shell
 chmod +x log-script.sh
 ```
