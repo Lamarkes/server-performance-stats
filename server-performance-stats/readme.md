@@ -17,7 +17,7 @@
 
 1. Clone este repositório:
 ```shell
-git clone https://github.com/Lamarkes/server-performace-stats.git
+git clone https://github.com/Lamarkes/server-performance-stats.git
 ```
 2. Acesse a pasta do script:
 ```shell
